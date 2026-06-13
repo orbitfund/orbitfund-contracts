@@ -262,7 +262,7 @@ cargo test --all -- --nocapture
 
 ## Contributors
 
-Issues in this repo map directly to GrantFox bounty campaigns. To pick up work:
+To pick up work:
 
 1. Browse open, unassigned GitHub issues tagged `smart-contract`.
 2. Confirm your local environment compiles and `cargo test --all` passes.
