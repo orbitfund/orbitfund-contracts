@@ -260,7 +260,7 @@ cargo test --all -- --nocapture
 
 ---
 
-## 🦊 GrantFox Contributors
+##Contributors
 
 Issues in this repo map directly to GrantFox bounty campaigns. To pick up work:
 
